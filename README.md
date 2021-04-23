@@ -1,2 +1,8 @@
 # CodingTest
-Coding test solutions of the Internet Enterprises
+The Internet Enterprises' Coding Tests
+
+- Solutions to the interview coding tests
+
+- Solutions to the onlice coding tests
+
+  
